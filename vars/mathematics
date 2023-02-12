@@ -1,0 +1,14 @@
+dev sum(5,3)
+{
+   echo "the sum of {5} and {3} is {5+3}
+     }
+     
+     dev subtract(5,3)
+{
+   echo "the subtract of {5} and {3} is {5-3}
+     }
+     
+     dev multipli(5,3)
+{
+   echo "the sum of {5} and {3} is {5*3}
+     }
